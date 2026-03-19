@@ -1,11 +1,10 @@
-# Power-BI_project_Data_Jobs
-# Data Jobs Dashboard w/ Power BI
+# Power BI_Data_Jobs Dashboard
 
 <a href="https://lukeb.co/powerbi-project1" target="_blank">
   <img src="../Resources/images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
 </a>
 
-> <a href="https://lukeb.co/powerbi-project1" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
+> <a href="https://lukeb.co/powerbi-project1" target="_blank"> View interactive dashboard here on the Power BI Service</a>
 
 
 ## Introduction
@@ -19,13 +18,13 @@ You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_
 
 This project was a journey through key Power BI features. Here's a look at what we mastered:
 
--   **⚙️ Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
--   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
--   **📊 Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
--   **🗺️ Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
--   **🔢 KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
--   **🎨 Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
--   **🖱️ Interactive Reporting:**
+-   **Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
+-   **Implicit Measures:** Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
+-   **Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
+-   **Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
+-   **KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
+-   **Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
+-   **Interactive Reporting:**
     -   **Slicers:** To dynamically filter the report by Job Title.
     -   **Buttons & Bookmarks:** To create a seamless navigation experience.
     -   **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
