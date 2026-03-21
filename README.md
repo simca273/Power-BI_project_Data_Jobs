@@ -19,11 +19,10 @@ This project was by using these Power BI features:
       -   Map Charts: For displaying geospatial data and displaying global distribution of jobs.
       -   Cards: To highlight key performance indicators.
       -   Tables: For presenting detailed, tabular information.
-      -   Chart Variety: Selecting from common and uncommon chart types for effective storytelling.
 -   **Interactive Reporting:**
     -   **Slicers:** To dynamically filter the report by Job Title.
-    -   **Buttons & Bookmarks:** To create a seamless navigation experience.
-    -   **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
+    -   **Buttons & Bookmarks:** To create an intuitive navigation experience.
+    -   **Drill-Through:** To navigate from a high-level summary to a detailed view.
 ---
 
 ## Dashboard Overview
@@ -34,14 +33,14 @@ This project was by using these Power BI features:
 
 ![Data Jobs Dashboard Page 1](Images/Project1_Page1.png)
 
-This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
+This is a general overview for the data job market. It showcases key KPIs like total job count, median salaries (yearly, hourly) about data jobs top to give you a quick understanding of what's happening in the job market.
 
 ### Page 2: Job Title Drill Through
 
 ![Data Jobs Dashboard Page 2](Images/Project1_Page2.png)
 
 
-This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+This is the deep-dive page giving more in detail information about each position. From the main dashboard, you can click and drill through to this view including information about salary ranges, % of types of jobs, work-from-home stats, requirement on degree, show top hiring platforms and a global map of job locations.
 
 ---
 
